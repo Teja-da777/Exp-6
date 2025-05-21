@@ -1,4 +1,4 @@
-**# Exp - 6 STUDENT ONLINE EXAM REGISTRATION SYSTEM
+# Exp - 6 STUDENT ONLINE EXAM REGISTRATION SYSTEM
 
 # AIM:
 
@@ -48,4 +48,4 @@ vi)Sequence Diagram
 
 # RESULT:
 
-Thus the program To draw the UML diagram for Student Online Exam Registration System is verified succeccfully.**
+Thus the program To draw the UML diagram for Student Online Exam Registration System is verified succeccfully.
